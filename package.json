@@ -1,0 +1,38 @@
+{
+  "name": "camelatto-design-api",
+  "module": "src/index.ts",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "bun --watch src/index.ts",
+    "start": "bun run src/index.ts",
+    "build": "bun build.ts",
+    "format": "prettier --write .",
+    "format:check": "prettier --check .",
+    "typecheck": "tsc --noEmit",
+    "test": "bun test",
+    "test:db": "bun scripts/check-database.ts",
+    "test:admin": "bun scripts/check-admin.ts",
+    "admin:user": "bun scripts/create-admin.ts",
+    "admin:cleanup": "bun scripts/cleanup-auth.ts",
+    "db:migrate": "bun scripts/migrate.ts",
+    "db:migrate:check": "bun scripts/migrate.ts --dry-run",
+    "db:seed": "bun scripts/seed.ts",
+    "db:seed:check": "bun scripts/seed.ts --dry-run"
+  },
+  "dependencies": {
+    "@elysiajs/jwt": "^1.4.2",
+    "@elysiajs/openapi": "^1.4.17",
+    "@sinclair/typebox": "0.34.52",
+    "elysia": "^1.4.31",
+    "mysql2": "^3.24.6",
+    "nodemailer": "10.1.4",
+    "sharp": "0.35.5"
+  },
+  "devDependencies": {
+    "@types/bun": "^1.4.4",
+    "@types/nodemailer": "^8.0.2",
+    "prettier": "^3.9.10",
+    "typescript": "^5.9.3"
+  }
+}

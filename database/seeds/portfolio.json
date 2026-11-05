@@ -1,0 +1,159 @@
+{
+  "navigation": [
+    { "label": "Projetos", "href": "/#projetos" },
+    { "label": "Sobre", "href": "/#sobre" },
+    { "label": "Contato", "href": "/#contato" }
+  ],
+  "hero": {
+    "title": "Transformo problemas complexos em experiências digitais",
+    "highlight": "mais simples.",
+    "description": "Sou Érica Camelatto, UI/UX Designer. Formada em Comunicação Visual, acadêmica de Design Digital e apaixonada por soluções criativas e estratégicas.",
+    "primaryCta": "Explorar projetos",
+    "secondaryCta": "Entrar em contato"
+  },
+  "projects": [
+    {
+      "id": "01",
+      "slug": "projeto-01",
+      "category": "Product Design",
+      "year": "[Ano]",
+      "title": "[Projeto 01 — App mobile]",
+      "image": "mobile",
+      "imageAlt": "Imagem ilustrativa: telas de onboarding de um aplicativo mobile",
+      "description": "[Placeholder] Descreva em uma frase o problema central que o produto precisava resolver.",
+      "contribution": "[Placeholder] Seu papel: pesquisa, fluxos, UI…",
+      "tags": [
+        "Entrevistas",
+        "Jornada do usuário",
+        "Prototipação",
+        "Teste de usabilidade"
+      ],
+      "challenge": "[Descreva o contexto do produto, o problema identificado e as necessidades das pessoas que o utilizam.]",
+      "process": "[Apresente as pesquisas realizadas, os principais aprendizados e as decisões que orientaram a solução.]",
+      "solution": "[Explique a solução proposta, como ela foi validada e quais resultados foram observados.]"
+    },
+    {
+      "id": "02",
+      "slug": "projeto-02",
+      "category": "UI Design",
+      "year": "[Ano]",
+      "title": "[Projeto 02 — Plataforma web]",
+      "image": "web",
+      "imageAlt": "Imagem ilustrativa: painel web exibido em um notebook",
+      "description": "[Placeholder] Qual dificuldade os usuários enfrentavam na plataforma?",
+      "contribution": "[Placeholder] Seu papel no projeto.",
+      "tags": ["Arquitetura da informação", "Design system", "Wireframes"],
+      "challenge": "[Descreva o contexto da plataforma e as dificuldades encontradas pelos usuários.]",
+      "process": "[Documente a organização das informações, os fluxos e a construção da linguagem visual.]",
+      "solution": "[Apresente as interfaces, os testes realizados e os aprendizados do projeto.]"
+    },
+    {
+      "id": "03",
+      "slug": "projeto-03",
+      "category": "UX Research",
+      "year": "[Ano]",
+      "title": "[Projeto 03 — Pesquisa UX]",
+      "image": "research",
+      "imageAlt": "Imagem ilustrativa: wireframes e diagrama de fluxo sobre uma mesa",
+      "description": "[Placeholder] Qual pergunta a pesquisa precisava responder?",
+      "contribution": "[Placeholder] Seu papel na pesquisa.",
+      "tags": ["Entrevistas", "Mapa de afinidade", "Testes moderados"],
+      "challenge": "[Descreva a pergunta de pesquisa e o contexto em que ela surgiu.]",
+      "process": "[Explique a escolha dos métodos, o recrutamento e a análise dos dados.]",
+      "solution": "[Compartilhe os aprendizados, as recomendações e os próximos passos.]"
+    }
+  ],
+  "approach": {
+    "eyebrow": "Abordagem",
+    "title": "Como penso o design",
+    "description": "Um ciclo, não uma receita: cada projeto pede mais de uma etapa do que de outra.",
+    "steps": [
+      {
+        "title": "Investigar",
+        "description": "Compreender contexto, usuários e problemas antes de qualquer tela."
+      },
+      {
+        "title": "Estruturar",
+        "description": "Organizar informações, mapear jornadas e definir prioridades."
+      },
+      {
+        "title": "Projetar",
+        "description": "Explorar soluções, fluxos, wireframes e interfaces."
+      },
+      {
+        "title": "Validar",
+        "description": "Testar hipóteses, identificar barreiras e aprimorar a experiência."
+      },
+      {
+        "title": "Evoluir",
+        "description": "Transformar aprendizados em melhorias contínuas para o produto."
+      }
+    ]
+  },
+  "gallery": {
+    "eyebrow": "Repertório",
+    "title": "Além do produto digital",
+    "items": [
+      {
+        "title": "[Projeto de identidade visual]",
+        "category": "Identidade visual",
+        "image": "",
+        "alt": ""
+      },
+      {
+        "title": "[Série de posts]",
+        "category": "Redes sociais",
+        "image": "",
+        "alt": ""
+      },
+      {
+        "title": "[Apresentação institucional]",
+        "category": "Apresentações",
+        "image": "",
+        "alt": ""
+      },
+      {
+        "title": "[Peça editorial]",
+        "category": "Editorial",
+        "image": "",
+        "alt": ""
+      },
+      {
+        "title": "[Embalagem]",
+        "category": "Embalagens",
+        "image": "",
+        "alt": ""
+      },
+      { "title": "[Campanha]", "category": "Campanhas", "image": "", "alt": "" }
+    ]
+  },
+  "about": {
+    "eyebrow": "Sobre mim",
+    "title": "Design digital com método — da pesquisa à interface.",
+    "image": "",
+    "imageAlt": "Identidade visual Camelatto Design",
+    "paragraphs": [
+      "Formada em Comunicação Visual, acadêmica de Design Digital e apaixonada por soluções criativas e estratégicas.",
+      "Meu interesse está em experiências centradas nas pessoas: pesquisa, usabilidade e acessibilidade fazem parte do projeto desde o início, não como etapa final.",
+      "A experiência com identidade visual e editorial me ajuda a conectar decisões estratégicas a uma execução visual precisa."
+    ],
+    "skills": [
+      "Pesquisa com usuários",
+      "Arquitetura da informação",
+      "Prototipação",
+      "Acessibilidade digital",
+      "Design de interfaces",
+      "Design systems"
+    ],
+    "stats": [
+      { "value": "64.758", "label": "Exibições de projetos" },
+      { "value": "2.120", "label": "Avaliações" }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contato",
+    "title": "Vamos criar experiências digitais",
+    "highlight": "melhores?",
+    "description": "Estou aberta a oportunidades em Product Design, UX/UI Design e projetos que envolvam a criação e evolução de produtos digitais."
+  }
+}

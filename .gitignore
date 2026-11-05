@@ -1,0 +1,13 @@
+node_modules/
+.env
+.env.*
+!.env.example
+.idea/
+build/
+dist/
+server-with-bun*
+coverage/
+*.log
+.work/
+storage/
+.admin-operations.tmp

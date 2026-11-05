@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "question": "Qual é a diferença entre UI e UX?",
+    "answer": "UI (Interface do Usuário) cuida da apresentação visual e dos elementos de interação, como cores, botões e tipografia. UX (Experiência do Usuário) considera toda a jornada de uso para tornar a navegação clara, útil e intuitiva."
+  },
+  {
+    "id": 2,
+    "question": "Como o design de UI e UX pode ajudar meu negócio?",
+    "answer": "Um bom projeto de UI e UX facilita o acesso às informações e a realização de ações, como solicitar um orçamento ou concluir uma compra. Isso pode reduzir dúvidas, melhorar a satisfação dos usuários e contribuir para as conversões."
+  },
+  {
+    "id": 3,
+    "question": "Quais são as etapas de um projeto de UI e UX?",
+    "answer": "O projeto geralmente começa pela compreensão do negócio e das necessidades dos usuários. Depois, são definidas a estrutura das informações e os fluxos de navegação, seguidos por wireframes, design visual, protótipos e testes de usabilidade para orientar os ajustes."
+  },
+  {
+    "id": 4,
+    "question": "Por que responsividade e acessibilidade são importantes?",
+    "answer": "A responsividade adapta a interface a diferentes tamanhos de tela, como celulares, tablets e computadores. A acessibilidade busca permitir que mais pessoas, incluindo pessoas com deficiência, utilizem o produto com recursos como contraste adequado, navegação por teclado e textos claros."
+  }
+]
